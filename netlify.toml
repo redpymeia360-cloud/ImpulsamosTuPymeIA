@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es-CL">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ImpulsamosTuPymeIA | Automatización IA, Software, Marketing y CRM</title>
+<meta name="description" content="Soluciones tecnológicas con IA para emprendedores y PYMES: automatización, chatbots, WhatsApp, CRM, marketing digital, software, tiendas online, soporte TI y realidad virtual.">
+<meta name="keywords" content="automatización IA, chatbot whatsapp, marketing digital, CRM inmobiliario, desarrollo software, Meta Ads IA, tienda online, soporte TI">
+<meta property="og:title" content="ImpulsamosTuPymeIA - Automatiza, Conecta y Crece">
+<meta property="og:description" content="Tecnología, IA y marketing para hacer crecer tu empresa.">
+<meta property="og:image" content="assets/branding-kit.png">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="logo">↗</span><div><b>ImpulsamosTuPyme<span>IA</span></b><small>Automatiza • Conecta • Crece</small></div></div>
+  <nav><a href="#servicios">Servicios</a><a href="#planes">Planes</a><a href="#software">Software</a><a href="#contacto">Contacto</a></nav>
+  <a class="top-btn" href="https://wa.me/56921733645?text=Hola%20ImpulsamosTuPymeIA%2C%20quiero%20informaci%C3%B3n%20de%20sus%20servicios%20y%20agendar%20una%20reuni%C3%B3n." target="_blank">WhatsApp</a>
+</header>
+<section class="hero">
+  <div class="hero-text">
+    <h1>Soluciones tecnológicas con Inteligencia Artificial para hacer crecer tu empresa</h1>
+    <p>Automatizamos procesos, captamos clientes y transformamos tu negocio con herramientas inteligentes que trabajan 24/7 por ti.</p>
+    <div class="hero-actions"><a href="#contacto" class="btn primary">Agendar reunión</a><a href="assets/brochure-impulsamostupymeia.pdf" class="btn secondary" download>Descargar brochure</a><a href="https://chat.whatsapp.com/LcwxdPZrtyZHdZro2tNJaO?mode=gi_t" class="btn green" target="_blank">Unirme al WhatsApp</a></div>
+  </div>
+  <div class="hero-img"><img src="assets/branding-kit.png" alt="ImpulsamosTuPymeIA diseño corporativo"></div>
+</section>
+<section class="section" id="servicios">
+<h2>Nuestros servicios para emprendedores y PYMES</h2><p class="lead">Soluciones accesibles para negocios que recién comienzan y empresas que quieren vender más.</p>
+<div class="cards">
+<article><h3>Automatización con IA</h3><p>Chatbots inteligentes, WhatsApp 24/7, captación de leads, agenda e integración con Google Sheets.</p></article>
+<article><h3>Marketing Digital</h3><p>Meta Ads IA, auditoría de redes sociales, reportes, estrategia comercial y contenido para vender.</p></article>
+<article><h3>Desarrollo de Software</h3><p>CRM, sistemas contables, control de gastos, gestión empresarial, tiendas online y plataformas a medida.</p></article>
+<article><h3>Diseño y Branding</h3><p>Logos, flyers, tarjetas, catálogo, video comercial, marca personal y perfiles para redes sociales.</p></article>
+<article><h3>CRM Inmobiliario IA</h3><p>Software para propiedades, agentes, tour virtual, dashboard de ventas, leads y seguimiento comercial.</p></article>
+<article><h3>Servicios TI</h3><p>Servidores, VPN, correo corporativo, respaldo, licencias Office, soporte técnico y sistema de tickets.</p></article>
+<article><h3>Call Center y Secretaria IA</h3><p>Gestión de llamadas, agenda, seguimiento de clientes, reportes y automatización de tareas internas.</p></article>
+<article><h3>Realidad Virtual y Aumentada</h3><p>Soluciones para constructoras, salas de venta, recorridos 360 y software administrable.</p></article>
+</div></section>
+<section class="section dark" id="software"><div class="split"><div><h2>Plataforma interna de gestión</h2><p>Mostramos cómo gestionamos solicitudes, hacemos seguimiento y resolvemos requerimientos de forma rápida.</p><ul><li>Chat en línea de atención</li><li>Seguimiento de casos</li><li>Reportes de gestión</li><li>Clientes informados en tiempo real</li></ul></div><img src="assets/plataforma-chat-clientes.png" alt="Plataforma interna de atención a clientes"></div></section>
+<section class="video-section"><div><h2>¿Por qué automatizar tu empresa?</h2><p>La automatización permite responder más rápido, no perder clientes y vender con procesos ordenados.</p></div><video controls muted loop poster="assets/redes-sociales.png"><source src="assets/video-automatizacion-empresa.mp4" type="video/mp4"></video></section>
+<section class="section" id="planes"><h2>Planes y precios accesibles</h2><div class="pricing"><article><h3>Plan Inicio</h3><strong>$29.990</strong><p>Para persona natural o emprendedor.</p><ul><li>Auditoría inicial</li><li>WhatsApp directo</li><li>Flyer digital</li></ul></article><article class="featured"><h3>Plan Pyme IA</h3><strong>$79.990</strong><p>Para pymes que necesitan captar clientes.</p><ul><li>Formulario web</li><li>Chatbot básico</li><li>Google Sheets / Gmail</li></ul></article><article><h3>Plan Comercial 360</h3><strong>$149.990</strong><p>Marketing, CRM y automatización.</p><ul><li>Meta Ads IA</li><li>Dashboard</li><li>Seguimiento leads</li></ul></article><article><h3>Plan Inmobiliario IA</h3><strong>$199.990</strong><p>CRM, Tour 360 y propiedades.</p><ul><li>CRM web</li><li>Tour Virtual</li><li>WhatsApp</li></ul></article></div></section>
+<section class="qr-area"><div><h2>Contáctanos por WhatsApp</h2><p>Escanea el código o completa el formulario para recibir información y agendar una reunión.</p><a class="btn green" href="https://chat.whatsapp.com/LcwxdPZrtyZHdZro2tNJaO?mode=gi_t" target="_blank">Abrir grupo WhatsApp</a></div><img src="assets/qr-whatsapp-impulsamostupymeia.png"></section>
+<section class="section contact" id="contacto"><h2>Agenda una reunión o solicita información</h2><form id="contactForm" name="contacto-impulsamostupymeia" method="POST" data-netlify="true"><input type="hidden" name="form-name" value="contacto-impulsamostupymeia"><div class="form-grid"><input name="nombre" placeholder="Nombre" required><input name="apellido" placeholder="Apellido" required><input name="whatsapp" placeholder="WhatsApp" required><input name="correo" type="email" placeholder="Correo" required><select name="tipo_cliente"><option>Persona natural</option><option>Emprendedor</option><option>Pyme</option><option>Empresa</option><option>Inmobiliaria / Constructora</option></select><select name="servicio"><option>Automatización IA</option><option>Marketing Digital</option><option>Desarrollo Software</option><option>CRM Inmobiliario</option><option>Servicios TI</option></select><input name="fecha" type="date"><input name="hora" type="time"></div><textarea name="mensaje" placeholder="Cuéntanos qué necesitas"></textarea><button class="btn primary" type="submit">Enviar y continuar por WhatsApp</button><p class="note">Notificación sugerida para Netlify Forms: redpymeia360@gmail.com</p></form></section>
+<div class="chatbot" id="chatbot"><button class="chat-close" onclick="toggleChat()">×</button><h3>Asistente ImpulsamosTuPymeIA</h3><p>¿Qué servicio necesitas?</p><select id="chatServicio"><option>Automatización IA</option><option>Marketing Digital</option><option>CRM Inmobiliario</option><option>Desarrollo Software</option><option>Servicios TI</option></select><input id="chatNombre" placeholder="Nombre"><input id="chatApellido" placeholder="Apellido"><input id="chatWhatsapp" placeholder="WhatsApp"><input id="chatCorreo" placeholder="Correo"><input id="chatFecha" type="date"><button onclick="sendChat()" class="btn green">Agendar por WhatsApp</button></div>
+<button class="chat-float" onclick="toggleChat()">🤖 ¿Necesitas ayuda?</button><a class="wa-float" href="https://wa.me/56921733645?text=Hola%20ImpulsamosTuPymeIA%2C%20quiero%20informaci%C3%B3n%20de%20sus%20servicios%20y%20agendar%20una%20reuni%C3%B3n." target="_blank">💬</a>
+<footer><b>ImpulsamosTuPymeIA</b><span>+56921733645 • impulsamostupymeIA@gmail.com</span><span>Automatiza • Conecta • Crece</span></footer>
+<script src="assets/script.js"></script>
+</body></html>
