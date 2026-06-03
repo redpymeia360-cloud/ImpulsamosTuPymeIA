@@ -1,10 +1,69 @@
-<!doctype html>
-<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Portafolio Automatización, Chatbots y CRM | Constanza Berríos</title><meta name="description" content="Automatización de leads, chatbots 24/7, CRM y flujos con Google Sheets y email para empresas y PYMES."><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/css/styles.css"></head>
-<body><header class="site-header"><div class="container nav"><a class="brand" href="index.html"><span class="logo">CB</span><span>Constanza Berríos</span><span>| ImpulsamosTuPymeIA</span></a><button class="mobile-toggle">☰</button><nav class="menu"><a href="index.html">Inicio</a><a href="index.html#servicios">Servicios</a><a class="active" href="index.html#portafolio">Portafolio</a><a href="index.html#demos">Demos</a><a href="index.html#contacto">Contacto</a></nav><div class="nav-actions"><a class="btn-small" href="index.html#contacto">Solicitar demo</a></div></div></header>
-<main>
-<section class="page-hero"><div class="container page-hero-grid"><div><div class="breadcrumbs">Inicio › Portafolio › Automatización, Chatbots y CRM</div><span class="eyebrow">🤖 Sistemas para captar y ordenar clientes</span><h1>Portafolio de <span class="gradient">Automatización, Chatbots y CRM</span></h1><p class="lead">Soluciones con IA para captar clientes, responder 24/7 y ordenar oportunidades de venta.</p><div class="highlight-box">Automatizo respuestas, capturo leads y conecto tus procesos para que vendas más con menos esfuerzo.</div><div class="hero-buttons"><a class="btn" href="index.html#demos">Probar demos</a><a class="btn-secondary" href="index.html#contacto">Solicitar demo</a></div></div><div class="mock-window"><img src="assets/img/mockup-automatizacion.png" alt="Mockup automatización chatbots y CRM"></div></div></section>
-<section class="section"><div class="container"><div class="section-title"><h2>Soluciones principales</h2></div><div class="services-grid"><article class="service-card"><div class="icon">💬</div><h3>Chatbot 24/7</h3><p>Responde al instante, califica y guía a tus clientes potenciales mientras duermes.</p></article><article class="service-card"><div class="icon">🎯</div><h3>Automatización de Leads</h3><p>Captura, califica y distribuye leads automáticamente sin perder oportunidades.</p></article><article class="service-card"><div class="icon">👥</div><h3>CRM de Seguimiento</h3><p>Organiza contactos, etapas de venta y tareas para que nada se escape.</p></article><article class="service-card"><div class="icon">🧾</div><h3>Formularios Inteligentes</h3><p>Formularios dinámicos que capturan más información y mejoran la calidad del lead.</p></article><article class="service-card"><div class="icon">📊</div><h3>Google Sheets + Email</h3><p>Conecta tus datos, envía correos automáticos y prepara seguimiento comercial.</p></article><article class="service-card"><div class="icon">📅</div><h3>Agenda y Recordatorios</h3><p>Automatiza reuniones, recordatorios y respuestas para mejorar la conversión.</p></article></div></div></section>
-<section class="section"><div class="container"><div class="section-title"><h2>Flujos y ejemplos reales</h2></div><div class="case-grid"><article class="case-card"><h3>1. Instagram/Facebook + Formulario + Sheets</h3><p class="muted">Los leads llegan desde redes, completan un formulario y se guardan automáticamente.</p><div class="tags"><span class="tag">Instagram</span><span class="tag">Facebook</span><span class="tag">Sheets</span></div></article><article class="case-card"><h3>2. Chatbot para inmobiliaria</h3><p class="muted">Responde si la persona quiere comprar, arrendar o invertir, y agenda visita.</p><div class="chat-box"><div class="bubble bot">¿Buscas comprar o arrendar?</div><div class="bubble user">Comprar</div><div class="bubble bot">Perfecto. ¿Qué comuna te interesa?</div></div></article><article class="case-card"><h3>3. Embudo de seguimiento CRM</h3><p class="muted">Visualiza etapas del cliente: nuevo, calificado, propuesta y cierre.</p><div class="kpis"><div class="kpi"><strong>45</strong><span>Nuevo</span></div><div class="kpi"><strong>28</strong><span>Calificado</span></div><div class="kpi"><strong>7</strong><span>Cierre</span></div></div></article></div></div></section>
-<section class="section"><div class="container"><div class="section-title"><h2>Beneficios para el negocio</h2></div><div class="services-grid"><article class="service-card"><div class="icon">⚡</div><h3>Más respuestas</h3><p>Atiende 24/7 y responde al instante para no perder clientes.</p></article><article class="service-card"><div class="icon">⏱️</div><h3>Menos tiempo perdido</h3><p>Automatiza tareas repetitivas y enfócate en cerrar negocios.</p></article><article class="service-card"><div class="icon">📌</div><h3>Mejor seguimiento</h3><p>Organiza cada lead y aumenta la tasa de conversión.</p></article></div></div></section>
-<section class="section"><div class="container"><div class="section-title"><h2>Paquetes y soluciones</h2></div><div class="price-grid"><article class="price-card"><h3>Automatización Básica</h3><div class="price">Desde $290.000</div><div class="check">Chatbot básico 24/7</div><div class="check">Formulario + Google Sheets</div><div class="check">Email automático</div><a class="btn-small" href="index.html#contacto">Solicitar demo</a></article><article class="price-card featured"><h3>Embudo Comercial</h3><div class="price">Desde $490.000</div><div class="check">CRM + etapas de venta</div><div class="check">Seguimiento automático</div><div class="check">Reportes y métricas</div><a class="btn" href="index.html#contacto">Más popular</a></article><article class="price-card"><h3>Seguimiento 24/7</h3><div class="price">Desde $690.000</div><div class="check">Chatbot IA personalizado</div><div class="check">Agenda de reuniones</div><div class="check">Optimización mensual</div><a class="btn-small" href="index.html#contacto">Solicitar</a></article></div></div></section>
-</main><footer class="footer"><div class="container footer-grid"><span>© 2026 Constanza Berríos — ImpulsamosTuPymeIA</span><span>Automatización • Chatbots • CRM</span><a href="index.html">Volver al inicio</a></div></footer><script src="assets/js/main.js"></script></body></html>
+# Constanza Berríos | Portafolio TI, IA y Automatización
+
+![Banner del portafolio](assets/img/banner-linkedin.png)
+
+Analista Programador con experiencia en **soporte TI**, desarrollo web en **WordPress**, automatización con **IA**, CRM, chatbots y soluciones digitales para empresas, PYMES y emprendedores.
+
+## 🚀 Demo online recomendada
+
+- Netlify: `https://impulsamostupymeia.netlify.app`
+- GitHub Pages: `https://cberrios10.github.io/portfolio-impulsamostupymeia/`
+
+> Cambia las URLs por tus enlaces reales después de publicar.
+
+## 💼 Servicios principales
+
+- Soporte TI remoto
+- Desarrollo web y WordPress
+- Landing pages para captación de clientes
+- CRM inmobiliario y comercial
+- Chatbots de atención 24/7
+- Automatización de leads con formularios, Google Sheets, email y CRM
+- Diseño y contenido digital para redes sociales
+
+## 🧩 Demos funcionales incluidas
+
+Este portafolio incluye demos front-end para mostrar a clientes:
+
+1. **Mini CRM de leads**: registra leads en el navegador con `localStorage`.
+2. **Exportación CSV**: descarga los contactos de prueba.
+3. **Chatbot comercial**: simula respuestas automáticas para servicios.
+4. **Calculadora de oportunidad comercial**: estima ventas e ingresos potenciales.
+5. **Páginas de portafolio por especialidad**: soporte TI, desarrollo web, automatización y guía GitHub/Netlify.
+
+## 🛠️ Tecnologías usadas
+
+HTML, CSS, JavaScript, GitHub, Netlify, SEO básico, Open Graph, diseño responsive y estructura de portafolio profesional.
+
+## 📂 Estructura
+
+```txt
+portfolio-impulsamostupymeia/
+├── index.html
+├── soporte-ti.html
+├── desarrollo-web-ia.html
+├── automatizacion-chatbots-crm.html
+├── github-netlify.html
+├── assets/
+│   ├── css/styles.css
+│   ├── js/main.js
+│   └── img/
+├── docs/
+│   ├── textos-para-cv-y-linkedin.md
+│   └── guia-publicacion-github-netlify.md
+├── netlify.toml
+├── robots.txt
+└── sitemap.xml
+```
+
+## 🔗 Texto para CV
+
+**Portafolio online:** `https://impulsamostupymeia.netlify.app`  
+**GitHub:** `https://github.com/cberrios10/portfolio-impulsamostupymeia`
+
+Demos incluidas: CRM de leads, chatbot comercial, automatización de contactos, soporte TI remoto y desarrollo web para PYMES.
+
+## 📩 Contacto
+
+Disponible para trabajo remoto, práctica profesional, proyectos freelance y colaboración con empresas.
+
