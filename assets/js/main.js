@@ -1,0 +1,59 @@
+const navToggle = document.querySelector('.nav-toggle');
+const nav = document.querySelector('#menu');
+if (navToggle && nav) {
+  navToggle.addEventListener('click', () => {
+    const open = nav.classList.toggle('open');
+    navToggle.setAttribute('aria-expanded', String(open));
+  });
+  nav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
+    nav.classList.remove('open');
+    navToggle.setAttribute('aria-expanded', 'false');
+  }));
+}
+
+const revealItems = document.querySelectorAll('.reveal');
+const reveal = () => revealItems.forEach((item, index) => setTimeout(() => item.classList.add('visible'), index * 35));
+if ('IntersectionObserver' in window) {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.08 });
+  revealItems.forEach(item => observer.observe(item));
+  setTimeout(reveal, 500);
+} else {
+  reveal();
+}
+
+const tabs = document.querySelectorAll('.tab');
+const answer = document.querySelector('#faqAnswer');
+tabs.forEach(tab => {
+  tab.addEventListener('click', () => {
+    tabs.forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    answer.textContent = tab.dataset.answer || '';
+  });
+});
+
+const form = document.querySelector('#leadForm');
+if (form) {
+  form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const data = new FormData(form);
+    const texto = `Hola, quiero solicitar una asesoría de ImpulsamosTuPymeIA.%0A%0A` +
+      `Nombre: ${encodeURIComponent(data.get('nombre') || '')} ${encodeURIComponent(data.get('apellido') || '')}%0A` +
+      `WhatsApp: ${encodeURIComponent(data.get('whatsapp') || '')}%0A` +
+      `Correo: ${encodeURIComponent(data.get('correo') || '')}%0A` +
+      `Empresa: ${encodeURIComponent(data.get('empresa') || '')}%0A` +
+      `Tipo de cliente: ${encodeURIComponent(data.get('tipo') || '')}%0A` +
+      `Servicio: ${encodeURIComponent(data.get('servicio') || '')}%0A` +
+      `Modalidad: ${encodeURIComponent(data.get('modalidad') || '')}%0A` +
+      `Día: ${encodeURIComponent(data.get('dia') || '')}%0A` +
+      `Hora: ${encodeURIComponent(data.get('hora') || '')}%0A` +
+      `Mensaje: ${encodeURIComponent(data.get('mensaje') || '')}`;
+    window.open(`https://wa.me/56921733645?text=${texto}`, '_blank', 'noopener');
+  });
+}
